@@ -7,7 +7,8 @@ software systems
 
 ## Content
 
-1. [Introduction](#introduction)
+1. **[Introduction](#introduction)**
+2. **[Creational patterns](#creational-patterns)**
 
 ## Introduction
 
@@ -21,3 +22,15 @@ Design patterns categorized into three main categories:
   suit the situation
 - **Structural**: deal with the composition of classes or objects
 - **Behavioral**: concerned with the interaction and responsibility among objects
+
+## Creational patterns
+
+Creational patterns covered in this repository are:
+
+- **[Factory method](#factory-method)**
+
+## Factory method
+
+Factory method is a design pattern that provides an interface for creating objects in a superclass, but allows
+subclasses to
+alter the type of objects that will be created
