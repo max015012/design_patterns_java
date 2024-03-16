@@ -10,7 +10,7 @@ public class PrototypeApp implements Runnable {
 
     @Override
     public void run() {
-        System.out.println("\nRunning factory method app...");
+        System.out.println("\nRunning prototype app...");
 
         StringJoiner equalities = new StringJoiner(", ");
 
@@ -19,6 +19,6 @@ public class PrototypeApp implements Runnable {
 
             equalities.add(String.valueOf(equality));
         }
-        System.out.println("Equalities: " + equalities + "\nStopping factory method app...");
+        System.out.println("Equalities: " + equalities + "\nStopping prototype app...");
     }
 }
