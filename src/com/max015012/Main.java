@@ -4,6 +4,7 @@ import com.max015012.design_patterns.creational.abstract_factory.AbstractFactory
 import com.max015012.design_patterns.creational.builder.BuilderApp;
 import com.max015012.design_patterns.creational.factory_method.FactoryMethodApp;
 import com.max015012.design_patterns.creational.prototype.PrototypeApp;
+import com.max015012.design_patterns.creational.singleton.SingletonApp;
 
 import java.util.Arrays;
 
@@ -12,7 +13,8 @@ public class Main {
             new FactoryMethodApp(),
             new AbstractFactoryApp(),
             new BuilderApp(),
-            new PrototypeApp()
+            new PrototypeApp(),
+            new SingletonApp()
     };
 
     public static void main(String[] args) {
