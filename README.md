@@ -28,9 +28,15 @@ Design patterns categorized into three main categories:
 Creational patterns covered in this repository are:
 
 - **[Factory method](#factory-method)**
+- **[Abstract factory](#abstract-factory)**
 
 ## Factory method
 
 Factory method is a design pattern that provides an interface for creating objects in a superclass, but allows
 subclasses to
 alter the type of objects that will be created
+
+## Abstract factory
+
+Abstract factory is a design pattern that lets you produce families of related objects without specifying their concrete
+classes
