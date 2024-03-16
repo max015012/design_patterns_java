@@ -30,6 +30,7 @@ Creational patterns covered in this repository are:
 - **[Factory method](#factory-method)**
 - **[Abstract factory](#abstract-factory)**
 - **[Builder](#builder)**
+- **[Prototype](#prototype)**
 
 ## Factory method
 
@@ -45,3 +46,7 @@ classes
 ## Builder
 
 Builder is a design pattern that lets you construct complex objects step by step
+
+## Prototype
+
+Prototype is a design pattern that lets you copy existing objects without making your code dependent on their classes
