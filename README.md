@@ -29,6 +29,7 @@ Creational patterns covered in this repository are:
 
 - **[Factory method](#factory-method)**
 - **[Abstract factory](#abstract-factory)**
+- **[Builder](#builder)**
 
 ## Factory method
 
@@ -40,3 +41,7 @@ alter the type of objects that will be created
 
 Abstract factory is a design pattern that lets you produce families of related objects without specifying their concrete
 classes
+
+## Builder
+
+Builder is a design pattern that lets you construct complex objects step by step
