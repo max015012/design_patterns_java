@@ -31,6 +31,7 @@ Creational patterns covered in this repository are:
 - **[Abstract factory](#abstract-factory)**
 - **[Builder](#builder)**
 - **[Prototype](#prototype)**
+- **[Singleton](#singleton)**
 
 ## Factory method
 
@@ -50,3 +51,8 @@ Builder is a design pattern that lets you construct complex objects step by step
 ## Prototype
 
 Prototype is a design pattern that lets you copy existing objects without making your code dependent on their classes
+
+## Singleton
+
+Singleton is a design pattern that lets you ensure that a class has only one instance, while providing a global access
+point to this instance
